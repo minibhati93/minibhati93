@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 ### 📖 Recent DEV.TO posts
 
 <!-- DEVTO:START -->
+- [List of Angular CLI commands we use daily](https://dev.to/devminibhati/list-of-angular-cli-commands-we-use-daily-1jab)
 <!-- DEVTO:END -->
 
 ### 📱 Latest Tweets
