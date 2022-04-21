@@ -31,11 +31,11 @@ My name is Mini Bhati. I am a front end developer currently working on Angular.
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@devminibhati: Thank you @ChrisJPerko for extending an invite.](https://twitter.com/devminibhati/status/1516728196854652938)
+- [@devminibhati: - Instead of getter functions, assign reusable observables in the service and use async pipe. - Use behavior subject with combineLatest because it needs an initial emission. Thank you @DeborahKurata](https://twitter.com/devminibhati/status/1516728194040311817)
+- [@devminibhati: - Always use enums instead of string literals- Take iterative approach. - Follow DRY, KISS and AC/DC principles for agility.- Don&#39;t mix up component libraries. Thank you @duluca](https://twitter.com/devminibhati/status/1516728191494365184)
+- [@devminibhati: April 19, 2022 Learnings from @angular_meetup &lpar;🧵&rpar;](https://twitter.com/devminibhati/status/1516728189187407875)
 - [@devminibhati: Working example:  more information, read](https://twitter.com/devminibhati/status/1516398604017369093)
-- [@devminibhati: Built-in PipesAngular comes with a collection of built-in pipes such as DatePipe, UpperCasePipe, LowerCasePipe, etc.Built-in Angular Pipes are defined in the @angular/common package.](https://twitter.com/devminibhati/status/1516398599000969217)
-- [@devminibhati: #Angular Tip: PipesPipes are used for transforming data for display.Pipes are functions that return a transformed value of the input provided. It accepts parameters as well.To apply a pipe, use the pipe &lpar;|&rpar; operator in the template.](https://twitter.com/devminibhati/status/1516398594668232711)
-- [@devminibhati: #Angular devsWhich one are you? 💪 Pipes👌 Directives](https://twitter.com/devminibhati/status/1516126062962700293)
-- [@devminibhati: This is useful when we don&#39;t have values for every property of the type.For more understanding, refer](https://twitter.com/devminibhati/status/1516025880573001735)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
