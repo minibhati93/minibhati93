@@ -25,6 +25,7 @@ My name is Mini Bhati. I am a front end developer currently working on Angular.
 ### 📖 Recent Hashnode blog posts
 
 <!-- HASHNODE:START -->
+- [One-liner Solutions to 6 Coding Questions](https://minibhati.hashnode.dev/one-liner-solutions-to-6-coding-questions)
 - [Nullish Coalescing Operator With Examples](https://minibhati.hashnode.dev/nullish-coalescing-operator-with-examples)
 <!-- HASHNODE:END -->
 
