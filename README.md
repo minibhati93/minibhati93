@@ -31,11 +31,11 @@ My name is Mini Bhati. I am a front end developer currently working on Angular.
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@devminibhati: If only one inner subscription should be active at a time, use switchMap.](https://twitter.com/devminibhati/status/1517544127512006656)
+- [@devminibhati: Note: mergeMap allows for multiple inner subscriptions to be active at a time hence can lead to memory leaks through long-lived inner subscriptions.Working example:  more information, read](https://twitter.com/devminibhati/status/1517544123808448513)
+- [@devminibhati: mergeMap merges the values from all of its inner observables and emits the values back as if they were produced by one stream. Also known as flattening an inner observable.It doesn&#39;t care about the order of emissions. Use concatMap if order is important.](https://twitter.com/devminibhati/status/1517544120692056068)
+- [@devminibhati: #RxJs operator: mergeMapUse case: You receive some values from an outer observable. Now, you want to call another observable to get more data for each of those values.](https://twitter.com/devminibhati/status/1517544116191580161)
 - [@devminibhati: Thank you @ChrisJPerko for extending an invite.](https://twitter.com/devminibhati/status/1516728196854652938)
-- [@devminibhati: - Instead of getter functions, assign reusable observables in the service and use async pipe. - Use behavior subject with combineLatest because it needs an initial emission. Thank you @DeborahKurata](https://twitter.com/devminibhati/status/1516728194040311817)
-- [@devminibhati: - Always use enums instead of string literals- Take iterative approach. - Follow DRY, KISS and AC/DC principles for agility.- Don&#39;t mix up component libraries. Thank you @duluca](https://twitter.com/devminibhati/status/1516728191494365184)
-- [@devminibhati: April 19, 2022 Learnings from @angular_meetup &lpar;🧵&rpar;](https://twitter.com/devminibhati/status/1516728189187407875)
-- [@devminibhati: Working example:  more information, read](https://twitter.com/devminibhati/status/1516398604017369093)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
