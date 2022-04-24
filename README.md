@@ -32,11 +32,11 @@ My name is Mini Bhati. I am a front end developer currently working on Angular.
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@devminibhati: #Angular devsHas anyone used @ScullyIO ? What&#39;s your opinion about it?](https://twitter.com/devminibhati/status/1517866732580478977)
 - [@devminibhati: If only one inner subscription should be active at a time, use switchMap.](https://twitter.com/devminibhati/status/1517544127512006656)
 - [@devminibhati: Note: mergeMap allows for multiple inner subscriptions to be active at a time hence can lead to memory leaks through long-lived inner subscriptions.Working example:  more information, read](https://twitter.com/devminibhati/status/1517544123808448513)
 - [@devminibhati: mergeMap merges the values from all of its inner observables and emits the values back as if they were produced by one stream. Also known as flattening an inner observable.It doesn&#39;t care about the order of emissions. Use concatMap if order is important.](https://twitter.com/devminibhati/status/1517544120692056068)
 - [@devminibhati: #RxJs operator: mergeMapUse case: You receive some values from an outer observable. Now, you want to call another observable to get more data for each of those values.](https://twitter.com/devminibhati/status/1517544116191580161)
-- [@devminibhati: Thank you @ChrisJPerko for extending an invite.](https://twitter.com/devminibhati/status/1516728196854652938)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
