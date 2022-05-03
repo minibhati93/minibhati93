@@ -29,11 +29,8 @@ My name is Mini Bhati. I am a front end developer currently working on Angular.
 - [Nullish Coalescing Operator With Examples](https://minibhati.hashnode.dev/nullish-coalescing-operator-with-examples)
 <!-- HASHNODE:END -->
 
-### 📱 Latest Tweets
+<!-- ### 📱 Latest Tweets -->
 
-<!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- TWITTER:END -->
 
 ### Mostly Used Languages
 
