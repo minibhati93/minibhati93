@@ -35,6 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DailyDevTips1 Just wow https://t.co/XcRlMKFqIv](https://twitter.com/devminibhati/status/1521098530932535303)
+- [@AdiSreyaj @LayZeeDK @Thisis_Learning Inspired by the writing as well as the dedication. Great job Adithya 👏](https://twitter.com/devminibhati/status/1520029616529887232)
+- [@mpocock1 This is awesome👏](https://twitter.com/devminibhati/status/1520029020976463878)
+- [@SantoshYadavDev Hope you feel better soon](https://twitter.com/devminibhati/status/1520026864621953026)
+- [@spierala That&#39;s amazing. 👏 Learnt something new today. Will try this out](https://twitter.com/devminibhati/status/1519894728417832960)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
