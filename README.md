@@ -31,6 +31,12 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I â
 - [Nullish Coalescing Operator With Examples](https://minibhati.hashnode.dev/nullish-coalescing-operator-with-examples)
 <!-- HASHNODE:END -->
 
+
+### ðŸ“± Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
 ### Mostly Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minibhati93&layout=compact)](https://github.com/minibhati93)

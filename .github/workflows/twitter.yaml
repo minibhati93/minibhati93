@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "https://rss.app/feeds/FCFvj2ObxxS29cCP.xml"
+          feed_list: "http://fetchrss.com/rss/6270cec21853436883256fa26270cdc7a6400255f067ca02.xml"
           commit_message: "Updated with the latest tweets"
           committer_username: "twitter-bot"
           committer_email: "minibhati93@gmail.com"
