@@ -35,11 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@DailyDevTips1 Just wow https://t.co/XcRlMKFqIv](https://twitter.com/devminibhati/status/1521098530932535303)
-- [@AdiSreyaj @LayZeeDK @Thisis_Learning Inspired by the writing as well as the dedication. Great job Adithya 👏](https://twitter.com/devminibhati/status/1520029616529887232)
-- [@mpocock1 This is awesome👏](https://twitter.com/devminibhati/status/1520029020976463878)
-- [@SantoshYadavDev Hope you feel better soon](https://twitter.com/devminibhati/status/1520026864621953026)
-- [@spierala That&#39;s amazing. 👏 Learnt something new today. Will try this out](https://twitter.com/devminibhati/status/1519894728417832960)
+- [@brandontroberts @aaronfrost @erik_slack @angular Great. I&#39;ll try to join.](https://twitter.com/devminibhati/status/1521528409855184896)
+- [@BraydonCoyer @EddyVinckk I agree.](https://twitter.com/devminibhati/status/1521527814482132992)
+- [@SikiraAmer Some more articles in the todo list](https://twitter.com/devminibhati/status/1521527587524075522)
+- [@KhanAbbas201 Eid Mubarak](https://twitter.com/devminibhati/status/1521526713397637120)
+- [@BraydonCoyer Trust me, it is. I&#39;m struggling with the class names while learning Tailwind](https://twitter.com/devminibhati/status/1521512928998006788)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
