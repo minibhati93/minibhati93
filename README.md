@@ -35,11 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I â
 ### ðŸ“± Latest Tweets
 
 <!-- TWITTER:START -->
+- [@devsguardian @LayZeeDK I know right! I thought I was the only one noticing the theme.](https://twitter.com/devminibhati/status/1522081300613455875)
+- [@mwycliffe_dev This article has given me a fresh perspective](https://twitter.com/devminibhati/status/1522079964807393280)
 - [@brandontroberts @aaronfrost @erik_slack @angular Great. I&#39;ll try to join.](https://twitter.com/devminibhati/status/1521528409855184896)
 - [@BraydonCoyer @EddyVinckk I agree.](https://twitter.com/devminibhati/status/1521527814482132992)
 - [@SikiraAmer Some more articles in the todo list](https://twitter.com/devminibhati/status/1521527587524075522)
-- [@KhanAbbas201 Eid Mubarak](https://twitter.com/devminibhati/status/1521526713397637120)
-- [@BraydonCoyer Trust me, it is. I&#39;m struggling with the class names while learning Tailwind](https://twitter.com/devminibhati/status/1521512928998006788)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
