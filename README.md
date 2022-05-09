@@ -35,11 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I â
 ### ðŸ“± Latest Tweets
 
 <!-- TWITTER:START -->
+- [@AffanyiYao I agree. Thoroughly enjoyed it](https://twitter.com/devminibhati/status/1523136701815615488)
 - [@devsguardian @LayZeeDK I know right! I thought I was the only one noticing the theme.](https://twitter.com/devminibhati/status/1522081300613455875)
 - [@mwycliffe_dev This article has given me a fresh perspective](https://twitter.com/devminibhati/status/1522079964807393280)
 - [@brandontroberts @aaronfrost @erik_slack @angular Great. I&#39;ll try to join.](https://twitter.com/devminibhati/status/1521528409855184896)
 - [@BraydonCoyer @EddyVinckk I agree.](https://twitter.com/devminibhati/status/1521527814482132992)
-- [@SikiraAmer Some more articles in the todo list](https://twitter.com/devminibhati/status/1521527587524075522)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
