@@ -35,11 +35,13 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@AffanyiYao I agree. Thoroughly enjoyed it](https://twitter.com/devminibhati/status/1523136701815615488)
-- [@devsguardian @LayZeeDK I know right! I thought I was the only one noticing the theme.](https://twitter.com/devminibhati/status/1522081300613455875)
-- [@mwycliffe_dev This article has given me a fresh perspective](https://twitter.com/devminibhati/status/1522079964807393280)
-- [@brandontroberts @aaronfrost @erik_slack @angular Great. I&#39;ll try to join.](https://twitter.com/devminibhati/status/1521528409855184896)
-- [@BraydonCoyer @EddyVinckk I agree.](https://twitter.com/devminibhati/status/1521527814482132992)
+- [@LayZeeDK @SantoshYadavDev @JayCooperBell @djgovani @mwycliffe_dev Yes, the newsletter is really informative. 
+
+Great job. 👏](https://twitter.com/devminibhati/status/1524051543011753985)
+- [@AdiSreyaj Thanks. Trust me, it much needed](https://twitter.com/devminibhati/status/1524051331736309760)
+- [@michlbrmly Love the stickers.](https://twitter.com/devminibhati/status/1523991141380595712)
+- [@kjbetz https://t.co/vPOPnp6Tf7](https://twitter.com/devminibhati/status/1523935837871689728)
+- [@danywalls Morning. ☀️](https://twitter.com/devminibhati/status/1523935622208970752)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
