@@ -35,13 +35,16 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@LayZeeDK @SantoshYadavDev @JayCooperBell @djgovani @mwycliffe_dev Yes, the newsletter is really informative. 
+- [@JediBravery Agreed.🙌](https://twitter.com/devminibhati/status/1524785999108186112)
+- [@DailyDevTips1 I have been there. Did an update recently. ☹️
+Worst is when network issue happens in the middle of the download](https://twitter.com/devminibhati/status/1524735077824884737)
+- [@bittukumar_97 https://t.co/fBmeb8i0xi](https://twitter.com/devminibhati/status/1524734718024974336)
+- [For more understanding , read https://t.co/XHSXYoagb8](https://twitter.com/devminibhati/status/1524461385479966720)
+- [In the example above:
 
-Great job. 👏](https://twitter.com/devminibhati/status/1524051543011753985)
-- [@AdiSreyaj Thanks. Trust me, it much needed](https://twitter.com/devminibhati/status/1524051331736309760)
-- [@michlbrmly Love the stickers.](https://twitter.com/devminibhati/status/1523991141380595712)
-- [@kjbetz https://t.co/vPOPnp6Tf7](https://twitter.com/devminibhati/status/1523935837871689728)
-- [@danywalls Morning. ☀️](https://twitter.com/devminibhati/status/1523935622208970752)
+type UserKeys becomes &#39;firstName&#39; | &#39;lastName&#39;
+
+That&#39;s why when keys is assigned to &#39;address&#39; it throws a...](https://twitter.com/devminibhati/status/1524461382845882368)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
