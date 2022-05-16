@@ -35,16 +35,13 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [First of the many talks.
+2 days to go! https://t.co/Esp3HCWC0M](https://twitter.com/devminibhati/status/1525885663664406528)
+- [@NetanelBasal @angular As in global components sharing the state?](https://twitter.com/devminibhati/status/1525541827255799809)
+- [@dzhavatushev @angular Looking forward](https://twitter.com/devminibhati/status/1525541684641009665)
 - [@JediBravery Agreed.🙌](https://twitter.com/devminibhati/status/1524785999108186112)
 - [@DailyDevTips1 I have been there. Did an update recently. ☹️
 Worst is when network issue happens in the middle of the download](https://twitter.com/devminibhati/status/1524735077824884737)
-- [@bittukumar_97 https://t.co/fBmeb8i0xi](https://twitter.com/devminibhati/status/1524734718024974336)
-- [For more understanding , read https://t.co/XHSXYoagb8](https://twitter.com/devminibhati/status/1524461385479966720)
-- [In the example above:
-
-type UserKeys becomes &#39;firstName&#39; | &#39;lastName&#39;
-
-That&#39;s why when keys is assigned to &#39;address&#39; it throws a...](https://twitter.com/devminibhati/status/1524461382845882368)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
