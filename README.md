@@ -35,13 +35,12 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@mgechev @MihajloLj This is a goldmine. I have run into this error so many times](https://twitter.com/devminibhati/status/1526636592491687936)
+- [@SantoshYadavDev @ngconf @IgorMinar Great numbers. 👏](https://twitter.com/devminibhati/status/1526635748455088128)
+- [@xocomil_1 Thank you Jason.](https://twitter.com/devminibhati/status/1526634466340241410)
 - [First of the many talks.
 2 days to go! https://t.co/Esp3HCWC0M](https://twitter.com/devminibhati/status/1525885663664406528)
 - [@NetanelBasal @angular As in global components sharing the state?](https://twitter.com/devminibhati/status/1525541827255799809)
-- [@dzhavatushev @angular Looking forward](https://twitter.com/devminibhati/status/1525541684641009665)
-- [@JediBravery Agreed.🙌](https://twitter.com/devminibhati/status/1524785999108186112)
-- [@DailyDevTips1 I have been there. Did an update recently. ☹️
-Worst is when network issue happens in the middle of the download](https://twitter.com/devminibhati/status/1524735077824884737)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
