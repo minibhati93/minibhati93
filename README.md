@@ -35,12 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@AdiSreyaj @Thisis_Learning @nestframework @prisma @JayCooperBell @djgovani @LayZeeDK @SantoshYadavDev Noted 👍](https://twitter.com/devminibhati/status/1526898083417640961)
+- [@AdiSreyaj @Thisis_Learning @nestframework @prisma @JayCooperBell @djgovani @LayZeeDK @SantoshYadavDev When is this Adithya?](https://twitter.com/devminibhati/status/1526890472630693891)
+- [@technbuzz Thank you🙏](https://twitter.com/devminibhati/status/1526823168064622592)
+- [@Enea_Jahollari Woah! This is something to think about](https://twitter.com/devminibhati/status/1526768589834817536)
 - [@mgechev @MihajloLj This is a goldmine. I have run into this error so many times](https://twitter.com/devminibhati/status/1526636592491687936)
-- [@SantoshYadavDev @ngconf @IgorMinar Great numbers. 👏](https://twitter.com/devminibhati/status/1526635748455088128)
-- [@xocomil_1 Thank you Jason.](https://twitter.com/devminibhati/status/1526634466340241410)
-- [First of the many talks.
-2 days to go! https://t.co/Esp3HCWC0M](https://twitter.com/devminibhati/status/1525885663664406528)
-- [@NetanelBasal @angular As in global components sharing the state?](https://twitter.com/devminibhati/status/1525541827255799809)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
