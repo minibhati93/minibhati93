@@ -35,11 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@AdiSreyaj @Thisis_Learning @nestframework @prisma @JayCooperBell @djgovani @LayZeeDK @SantoshYadavDev Noted 👍](https://twitter.com/devminibhati/status/1526898083417640961)
-- [@AdiSreyaj @Thisis_Learning @nestframework @prisma @JayCooperBell @djgovani @LayZeeDK @SantoshYadavDev When is this Adithya?](https://twitter.com/devminibhati/status/1526890472630693891)
-- [@technbuzz Thank you🙏](https://twitter.com/devminibhati/status/1526823168064622592)
-- [@Enea_Jahollari Woah! This is something to think about](https://twitter.com/devminibhati/status/1526768589834817536)
-- [@mgechev @MihajloLj This is a goldmine. I have run into this error so many times](https://twitter.com/devminibhati/status/1526636592491687936)
+- [@SantoshYadavDev @LayZeeDK Nice. Have a great day.](https://twitter.com/devminibhati/status/1527648738675597313)
+- [@julienrenaux How is it different from the ngOnDestroy?](https://twitter.com/devminibhati/status/1527648637752180737)
+- [One month completed at @Cisco and it couldn&#39;t be better. #WeAreCisco](https://twitter.com/devminibhati/status/1527646559436845056)
+- [@javebratt @WeAreCisco @AlexOkrushko @beeman_nl Congratulations🎉](https://twitter.com/devminibhati/status/1527517448810864642)
+- [@erik_slack @xocomil_1 Family is always of help.](https://twitter.com/devminibhati/status/1527147718711209984)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
