@@ -35,11 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@developerorium @github @github_pakistan @khi_nuces @googledevs That&#39;s awesome👏👏👏](https://twitter.com/devminibhati/status/1527844292399489025)
-- [@SantoshYadavDev @LayZeeDK Nice. Have a great day.](https://twitter.com/devminibhati/status/1527648738675597313)
-- [@julienrenaux How is it different from the ngOnDestroy?](https://twitter.com/devminibhati/status/1527648637752180737)
-- [One month completed at @Cisco and it couldn&#39;t be better. #WeAreCisco](https://twitter.com/devminibhati/status/1527646559436845056)
-- [@javebratt @WeAreCisco @AlexOkrushko @beeman_nl Congratulations🎉](https://twitter.com/devminibhati/status/1527517448810864642)
+- [@AnfibiaCreativa Agree with everything you say. More power to women who code and balance their lives. 💪](https://twitter.com/devminibhati/status/1528697929682149382)
+- [@ankitsharma_007 @AanshulSadaria Easy in cities like UP. Difficult in Delhi](https://twitter.com/devminibhati/status/1528696320885547008)
+- [@DailyDevTips1 Evening &amp;amp; Midnight](https://twitter.com/devminibhati/status/1528695677185691648)
+- [@angular__weekly @aakashgoplani @trusktr @biondifabio @NetanelBasal @DecodedFrontend @reboog711 @FerryColum Thank you](https://twitter.com/devminibhati/status/1528695512852856832)
+- [@AnanyaC02818922 Would love to join.](https://twitter.com/devminibhati/status/1528693185253216257)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
