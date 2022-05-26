@@ -35,11 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@AnfibiaCreativa Agree with everything you say. More power to women who code and balance their lives. 💪](https://twitter.com/devminibhati/status/1528697929682149382)
-- [@ankitsharma_007 @AanshulSadaria Easy in cities like UP. Difficult in Delhi](https://twitter.com/devminibhati/status/1528696320885547008)
-- [@DailyDevTips1 Evening &amp;amp; Midnight](https://twitter.com/devminibhati/status/1528695677185691648)
-- [@angular__weekly @aakashgoplani @trusktr @biondifabio @NetanelBasal @DecodedFrontend @reboog711 @FerryColum Thank you](https://twitter.com/devminibhati/status/1528695512852856832)
-- [@AnanyaC02818922 Would love to join.](https://twitter.com/devminibhati/status/1528693185253216257)
+- [@Nartc1410 @devupconf https://t.co/6V6Q6tGWtL](https://twitter.com/devminibhati/status/1529523011904471040)
+- [@andrewbaisden @vishalraj_1 This is news to me too. 😅I think I just had a minor FOMO.](https://twitter.com/devminibhati/status/1529522552783007744)
+- [@kreuzercode This is really nice. Learnt something new today](https://twitter.com/devminibhati/status/1529475423645888513)
+- [@mwycliffe_dev Congratulations🎉🎉](https://twitter.com/devminibhati/status/1529472226659115009)
+- [@chantastic https://t.co/WSJgJj3aJv](https://twitter.com/devminibhati/status/1529357378784661504)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
