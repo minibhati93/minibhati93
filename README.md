@@ -35,11 +35,13 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@Nartc1410 @devupconf https://t.co/6V6Q6tGWtL](https://twitter.com/devminibhati/status/1529523011904471040)
-- [@andrewbaisden @vishalraj_1 This is news to me too. 😅I think I just had a minor FOMO.](https://twitter.com/devminibhati/status/1529522552783007744)
-- [@kreuzercode This is really nice. Learnt something new today](https://twitter.com/devminibhati/status/1529475423645888513)
-- [@mwycliffe_dev Congratulations🎉🎉](https://twitter.com/devminibhati/status/1529472226659115009)
-- [@chantastic https://t.co/WSJgJj3aJv](https://twitter.com/devminibhati/status/1529357378784661504)
+- [@debug_mode You really did a great job. 👏](https://twitter.com/devminibhati/status/1530021816927854594)
+- [@walkingriver @Ionicframework Congratulations🥳](https://twitter.com/devminibhati/status/1530018420858576897)
+- [@Nartc1410 @duncanfaulkner @BrowserPerson Yes, that&#39;s the one advantage interfaces have over Types.](https://twitter.com/devminibhati/status/1530017161569153024)
+- [RT @angular_meetup: Summer just got even hotter 😎☀️
+
+Join us for some sizzlin&#39; talks from @ngfelixl, @yjaaidi, &amp;amp; @karsilz on...](https://twitter.com/devminibhati/status/1530016951145070592)
+- [@TheNishuGoel @debug_mode This looks amazing. 👏](https://twitter.com/devminibhati/status/1529853557041614853)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
