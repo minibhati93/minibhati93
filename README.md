@@ -35,13 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@evrn_tan Have a great weekend.](https://twitter.com/devminibhati/status/1530559386250539010)
+- [Have you published articles/video on #Angular recently?  Drop the links below.](https://twitter.com/devminibhati/status/1530558756899401728)
 - [@debug_mode You really did a great job. 👏](https://twitter.com/devminibhati/status/1530021816927854594)
 - [@walkingriver @Ionicframework Congratulations🥳](https://twitter.com/devminibhati/status/1530018420858576897)
 - [@Nartc1410 @duncanfaulkner @BrowserPerson Yes, that&#39;s the one advantage interfaces have over Types.](https://twitter.com/devminibhati/status/1530017161569153024)
-- [RT @angular_meetup: Summer just got even hotter 😎☀️
-
-Join us for some sizzlin&#39; talks from @ngfelixl, @yjaaidi, &amp;amp; @karsilz on...](https://twitter.com/devminibhati/status/1530016951145070592)
-- [@TheNishuGoel @debug_mode This looks amazing. 👏](https://twitter.com/devminibhati/status/1529853557041614853)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
