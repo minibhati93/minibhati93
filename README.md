@@ -35,11 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@evrn_tan Have a great weekend.](https://twitter.com/devminibhati/status/1530559386250539010)
-- [Have you published articles/video on #Angular recently?  Drop the links below.](https://twitter.com/devminibhati/status/1530558756899401728)
-- [@debug_mode You really did a great job. 👏](https://twitter.com/devminibhati/status/1530021816927854594)
-- [@walkingriver @Ionicframework Congratulations🥳](https://twitter.com/devminibhati/status/1530018420858576897)
-- [@Nartc1410 @duncanfaulkner @BrowserPerson Yes, that&#39;s the one advantage interfaces have over Types.](https://twitter.com/devminibhati/status/1530017161569153024)
+- [Jest it is! 💪 https://t.co/JrwuSoimoN](https://twitter.com/devminibhati/status/1531638415724122113)
+- [@KylerJohnsonDev @LaraNerdsom I also observed that it is really fast.](https://twitter.com/devminibhati/status/1531638292701073410)
+- [@BraydonCoyer I recently used Jest. I have started feeling that it&#39;s a lot easier.](https://twitter.com/devminibhati/status/1531635906460864518)
+- [@xocomil_1 Agreed. It is faster too](https://twitter.com/devminibhati/status/1531635684422758406)
+- [@JayCooperBell I dread the days when I have to update. It eats up so much space and the download itself is nothing less than a m...](https://twitter.com/devminibhati/status/1531635434014449664)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
