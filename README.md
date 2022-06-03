@@ -35,11 +35,13 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [Jest it is! 💪 https://t.co/JrwuSoimoN](https://twitter.com/devminibhati/status/1531638415724122113)
-- [@KylerJohnsonDev @LaraNerdsom I also observed that it is really fast.](https://twitter.com/devminibhati/status/1531638292701073410)
-- [@BraydonCoyer I recently used Jest. I have started feeling that it&#39;s a lot easier.](https://twitter.com/devminibhati/status/1531635906460864518)
-- [@xocomil_1 Agreed. It is faster too](https://twitter.com/devminibhati/status/1531635684422758406)
-- [@JayCooperBell I dread the days when I have to update. It eats up so much space and the download itself is nothing less than a m...](https://twitter.com/devminibhati/status/1531635434014449664)
+- [@Carlillo @WellPaidGeek @100xcode @_100DaysOfCode @javascript_fan @javascriptd @JavaScriptDaily @JavaScriptKicks Looks concise. ...](https://twitter.com/devminibhati/status/1532433317827465216)
+- [RT @angular_meetup: Want to get experience on stage as a speaker? 🎙️
+
+Here&#39;s your chance! The #AngularCommunity Meetup will be h...](https://twitter.com/devminibhati/status/1532432476668186624)
+- [@DailyDevTips1 @BraydonCoyer Go Typescript](https://twitter.com/devminibhati/status/1532429733731831809)
+- [@sbworld @ImZackAdams @codeToPerdition I guess crab cake. I&#39;m curious what&#39;s a mud cake?](https://twitter.com/devminibhati/status/1532427180885438465)
+- [@codeToPerdition @sbworld @ImZackAdams I&#39;ll accept carrot cake](https://twitter.com/devminibhati/status/1532425999958192129)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
