@@ -35,13 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@jain_harshit Some people start with frameworks first because that&#39;s what is needed in the &#39;market&#39;.](https://twitter.com/devminibhati/status/1532764155379601408)
+- [@Adyasha8105 Loader holds the fort before it&#39;s ready to fight 😅](https://twitter.com/devminibhati/status/1532763714747006976)
+- [@elyktrix Until one gets crazy https://t.co/ekZTILF9dS](https://twitter.com/devminibhati/status/1532761636318064640)
+- [@Armandotrue @Bitcollage True. I had to remind myself how to write callbacks after reading this tweet](https://twitter.com/devminibhati/status/1532760680738172928)
 - [@Carlillo @WellPaidGeek @100xcode @_100DaysOfCode @javascript_fan @javascriptd @JavaScriptDaily @JavaScriptKicks Looks concise. ...](https://twitter.com/devminibhati/status/1532433317827465216)
-- [RT @angular_meetup: Want to get experience on stage as a speaker? 🎙️
-
-Here&#39;s your chance! The #AngularCommunity Meetup will be h...](https://twitter.com/devminibhati/status/1532432476668186624)
-- [@DailyDevTips1 @BraydonCoyer Go Typescript](https://twitter.com/devminibhati/status/1532429733731831809)
-- [@sbworld @ImZackAdams @codeToPerdition I guess crab cake. I&#39;m curious what&#39;s a mud cake?](https://twitter.com/devminibhati/status/1532427180885438465)
-- [@codeToPerdition @sbworld @ImZackAdams I&#39;ll accept carrot cake](https://twitter.com/devminibhati/status/1532425999958192129)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
