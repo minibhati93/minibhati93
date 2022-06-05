@@ -35,11 +35,17 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@jain_harshit Some people start with frameworks first because that&#39;s what is needed in the &#39;market&#39;.](https://twitter.com/devminibhati/status/1532764155379601408)
-- [@Adyasha8105 Loader holds the fort before it&#39;s ready to fight 😅](https://twitter.com/devminibhati/status/1532763714747006976)
-- [@elyktrix Until one gets crazy https://t.co/ekZTILF9dS](https://twitter.com/devminibhati/status/1532761636318064640)
-- [@Armandotrue @Bitcollage True. I had to remind myself how to write callbacks after reading this tweet](https://twitter.com/devminibhati/status/1532760680738172928)
-- [@Carlillo @WellPaidGeek @100xcode @_100DaysOfCode @javascript_fan @javascriptd @JavaScriptDaily @JavaScriptKicks Looks concise. ...](https://twitter.com/devminibhati/status/1532433317827465216)
+- [@ravinwashere I see what you did there https://t.co/VUBMm7P5zA](https://twitter.com/devminibhati/status/1533117076008599552)
+- [@catalinmpit https://t.co/XVchFKs5AM](https://twitter.com/devminibhati/status/1533116829727502338)
+- [@andrewbaisden That&#39;s amazing 👏👏](https://twitter.com/devminibhati/status/1533116286506393600)
+- [@andrielsonfs It compiles after putting in ngOnit but doesn&#39;t work.
+
+This works though. Can&#39;t seem to understand why https://t.c...](https://twitter.com/devminibhati/status/1533109660944769024)
+- [#Angular devs!
+
+I&#39;m creating a custom standalone directive.
+
+What am I missing here? https://t.co/e1OlXZWKxf](https://twitter.com/devminibhati/status/1533107956937392129)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
