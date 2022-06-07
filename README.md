@@ -35,17 +35,11 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Nartc1410 Just turning the background color yellow on whichever element it is applied](https://twitter.com/devminibhati/status/1533832557992607745)
+- [@MikeZks This worked though. That&#39;s what got me confused https://t.co/1SdBDNNz0g](https://twitter.com/devminibhati/status/1533832398416187393)
+- [@LayZeeDK @AngularToronto Correct. I was missing the init hook. Thanks](https://twitter.com/devminibhati/status/1533466736191623168)
+- [@iamandrewluca @andrielsonfs Nice. Thanks it worked.](https://twitter.com/devminibhati/status/1533466608521228289)
 - [@ravinwashere I see what you did there https://t.co/VUBMm7P5zA](https://twitter.com/devminibhati/status/1533117076008599552)
-- [@catalinmpit https://t.co/XVchFKs5AM](https://twitter.com/devminibhati/status/1533116829727502338)
-- [@andrewbaisden That&#39;s amazing 👏👏](https://twitter.com/devminibhati/status/1533116286506393600)
-- [@andrielsonfs It compiles after putting in ngOnit but doesn&#39;t work.
-
-This works though. Can&#39;t seem to understand why https://t.c...](https://twitter.com/devminibhati/status/1533109660944769024)
-- [#Angular devs!
-
-I&#39;m creating a custom standalone directive.
-
-What am I missing here? https://t.co/e1OlXZWKxf](https://twitter.com/devminibhati/status/1533107956937392129)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
