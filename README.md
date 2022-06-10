@@ -35,11 +35,13 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I â
 ### ðŸ“± Latest Tweets
 
 <!-- TWITTER:START -->
+- [#Angular devs! 
+
+Recommend good resources on Standalone components with Nx.](https://twitter.com/devminibhati/status/1534864917546733568)
+- [@mgechev But, as mutes the Typescript compiler.](https://twitter.com/devminibhati/status/1534785105377366016)
 - [@StevenDSanders @spierala It allows e + - as well](https://twitter.com/devminibhati/status/1534614833735139328)
 - [@Nartc1410 Just turning the background color yellow on whichever element it is applied](https://twitter.com/devminibhati/status/1533832557992607745)
 - [@MikeZks This worked though. That&#39;s what got me confused https://t.co/1SdBDNNz0g](https://twitter.com/devminibhati/status/1533832398416187393)
-- [@LayZeeDK @AngularToronto Correct. I was missing the init hook. Thanks](https://twitter.com/devminibhati/status/1533466736191623168)
-- [@iamandrewluca @andrielsonfs Nice. Thanks it worked.](https://twitter.com/devminibhati/status/1533466608521228289)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
