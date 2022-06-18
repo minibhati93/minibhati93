@@ -35,13 +35,13 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I â
 ### ðŸ“± Latest Tweets
 
 <!-- TWITTER:START -->
+- [@xocomil_1 @angular_meetup Thank you, Jason. I&#39;m really excited.](https://twitter.com/devminibhati/status/1537843940929327104)
 - [@LayZeeDK @KylerJohnsonDev @jpschroeder @angular @sveltejs @Rich_Harris @brandontroberts @Nartc1410 @twerske @marktechson @shai_...](https://twitter.com/devminibhati/status/1536017368891109377)
 - [@KylerJohnsonDev @jpschroeder @angular @sveltejs @Rich_Harris @brandontroberts @Nartc1410 @twerske @marktechson @LayZeeDK @shai_...](https://twitter.com/devminibhati/status/1535822120348815360)
 - [#Angular devs! 
 
 Recommend good resources on Standalone components with Nx.](https://twitter.com/devminibhati/status/1534864917546733568)
 - [@mgechev But, as mutes the Typescript compiler.](https://twitter.com/devminibhati/status/1534785105377366016)
-- [@StevenDSanders @spierala It allows e + - as well](https://twitter.com/devminibhati/status/1534614833735139328)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
