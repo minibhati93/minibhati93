@@ -35,6 +35,7 @@ I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I �
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@xocomil_1 @Nartc1410 @angular @NxDevTools I second this.](https://twitter.com/devminibhati/status/1540389259445579776)
 - [@JayCooperBell @prestonjlamb @Nartc1410 I like this approach 😅](https://twitter.com/devminibhati/status/1539834375428141056)
 - [@mwycliffe_dev This is very useful. Earlier I used to do with indexOf which took two lines. This is simple.](https://twitter.com/devminibhati/status/1538935586878550016)
 - [#Angular devs!
@@ -43,7 +44,6 @@ Which way of unit testing do you prefer?
 
 Using Testbed or not using Testbed https://t.co/Jqvfhpq64j](https://twitter.com/devminibhati/status/1538925380534292483)
 - [@xocomil_1 @angular_meetup Thank you, Jason. I&#39;m really excited.](https://twitter.com/devminibhati/status/1537843940929327104)
-- [@LayZeeDK @KylerJohnsonDev @jpschroeder @angular @sveltejs @Rich_Harris @brandontroberts @Nartc1410 @twerske @marktechson @shai_...](https://twitter.com/devminibhati/status/1536017368891109377)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
