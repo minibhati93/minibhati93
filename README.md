@@ -2,10 +2,10 @@
 
 My name is **Mini Bhati**. 
 
-I am a *UI/UX* enthusiast currently working as a software engineer at Cisco. I ❤️ Angular and I am an active contributor to the Angular community. My interests lie in making the user experience memorable and performance optimization. In the past, I have been doing various engineering, and support roles delivering Angular applications in the finance and education domain.
+I am a *UI* enthusiast currently working as a software engineer at Cisco and one of the co-organisers of the [Angular Community Meetup](https://twitter.com/angular_meetup). I ❤️ Angular. My interests lie in making the user experience memorable and performance optimization. In the past, I have been doing various engineering, and support roles delivering Angular applications in the finance and education domain.
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/minibhati93/minibhati93)](https:github.com/minibhati93)
+<!--[![Visits Badge](https://badges.pufler.dev/visits/minibhati93/minibhati93)](https:github.com/minibhati93)-->
 [![Twitter Badge](https://img.shields.io/twitter/follow/devminibhati?style=social)](https://twitter.com/devminibhati)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/minibhati93/)
 
