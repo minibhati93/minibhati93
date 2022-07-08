@@ -35,11 +35,11 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@kreuzercode The view 😍 https://t.co/ibpFyzxHtz](https://twitter.com/devminibhati/status/1543443589023166464)
-- [@xocomil_1 @ChrisJPerko And the view is amazing 😍](https://twitter.com/devminibhati/status/1543443088852430849)
-- [RT @markusingvarssn: Excellent talks by @carlbergenhem, @JordanPowell88, and @bahmutov at today&#39;s Angular Community Meetup! Alwa...](https://twitter.com/devminibhati/status/1541998375960096769)
-- [RT @LamisChebbi: 📢We are hiring 📢 We need amazing front end developers to join our team ! Wanna join our family and start an exc...](https://twitter.com/devminibhati/status/1541078939640115200)
-- [@xocomil_1 @Nartc1410 @angular @NxDevTools I second this.](https://twitter.com/devminibhati/status/1540389259445579776)
+- [RT @AlexOkrushko: Hey @angular folks! We are almost done with our #hiring for @CiscoCX, we are currently have only a few roles l...](https://twitter.com/devminibhati/status/1544887698615259136)
+- [@LayZeeDK Congratulations🎉🎉 You deserve it](https://twitter.com/devminibhati/status/1544741956089065473)
+- [@DailyDevTips1 Yeah me too. It&#39;s a never ending loop with the Login and Error screen](https://twitter.com/devminibhati/status/1544741474062831616)
+- [@ankitsharma_007 @Microsoft @MVPAward Congratulations🎉](https://twitter.com/devminibhati/status/1544690023349358592)
+- [@saltnburnem I don&#39;t like fireworks. Makes the air almost impossible to breathe](https://twitter.com/devminibhati/status/1544518251320791041)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
