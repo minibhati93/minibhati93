@@ -35,11 +35,11 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Nartc1410 @Enea_Jahollari I think, conversion from SCAM to standalone is easier to understand as one can straight away see the ...](https://twitter.com/devminibhati/status/1547052283774373890)
 - [Happy to be speaking again. Thanks @angular_meetup for the opportunity https://t.co/Kj3wl3whIS](https://twitter.com/devminibhati/status/1546334828127170560)
 - [@debug_mode Elif shafak is good. I have read 10 minutes 38 seconds in this strange world by her.](https://twitter.com/devminibhati/status/1546324748992294912)
 - [RT @AlexOkrushko: Hey @angular folks! We are almost done with our #hiring for @CiscoCX, we are currently have only a few roles l...](https://twitter.com/devminibhati/status/1544887698615259136)
 - [@LayZeeDK Congratulations🎉🎉 You deserve it](https://twitter.com/devminibhati/status/1544741956089065473)
-- [@DailyDevTips1 Yeah me too. It&#39;s a never ending loop with the Login and Error screen](https://twitter.com/devminibhati/status/1544741474062831616)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
