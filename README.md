@@ -35,6 +35,7 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@brandontroberts @pkozlowski_os @pavankjadda @debug_mode @angular @component 🧐](https://twitter.com/devminibhati/status/1551988119200600065)
 - [@ssdulawat @debug_mode Happy birthday, Dhananjay](https://twitter.com/devminibhati/status/1551555582087221248)
 - [@OneOldKiwiDev This is awesome 😍😍 I&#39;m a huge Tolkien fan and dreams to visit Hobbiton.](https://twitter.com/devminibhati/status/1551048762843283457)
 - [RT @angular_meetup: You asked. We delivered.
@@ -43,7 +44,6 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 
 @alfrodo_p...](https://twitter.com/devminibhati/status/1550897391704100865)
 - [@madzadev Chrome](https://twitter.com/devminibhati/status/1549800111525400576)
-- [@Nartc1410 @Enea_Jahollari I think, conversion from SCAM to standalone is easier to understand as one can straight away see the ...](https://twitter.com/devminibhati/status/1547052283774373890)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
