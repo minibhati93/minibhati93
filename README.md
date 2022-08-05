@@ -35,13 +35,13 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [Come join us! https://t.co/Dhmgk8fR3G](https://twitter.com/devminibhati/status/1555249245497597952)
 - [Guess the book I&#39;m reading](https://twitter.com/devminibhati/status/1554520713373319168)
 - [#Angular
 
 Ngclass and Ngstyle override all other bindings on every value change. They are the !important equivalent.](https://twitter.com/devminibhati/status/1554520542308597760)
 - [Angular is trending today🔥🔥](https://twitter.com/devminibhati/status/1554342695111249920)
 - [@RickHunter7 I love all of them. It&#39;s really difficult to pick a favorite.](https://twitter.com/devminibhati/status/1552703293247614976)
-- [@brandontroberts @pkozlowski_os @pavankjadda @debug_mode @angular @component 🧐](https://twitter.com/devminibhati/status/1551988119200600065)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
