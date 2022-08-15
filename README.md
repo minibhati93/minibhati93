@@ -27,8 +27,9 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📖 Recent Hashnode blog posts
 
 <!-- HASHNODE:START -->
-- [One-liner Solutions to 6 Coding Questions](https://minibhati.hashnode.dev/one-liner-solutions-to-6-coding-questions)
-- [Nullish Coalescing Operator With Examples](https://minibhati.hashnode.dev/nullish-coalescing-operator-with-examples)
+- [How to configure Jest for unit testing in an Angular application](https://minibhati.hashnode.dev/how-to-configure-jest-for-unit-testing-in-an-angular-application)
+- [One-liner Solutions to 6 Coding Questions in JavaScript](https://minibhati.hashnode.dev/one-liner-solutions-to-6-coding-questions-in-javascript)
+- [Understand Nullish Coalescing Operator With Examples](https://minibhati.hashnode.dev/understand-nullish-coalescing-operator-with-examples)
 <!-- HASHNODE:END -->
 
 
