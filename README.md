@@ -38,14 +38,16 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [#Angular
+
+What do you think of the non-null assertion for async pipes in the template? 
+
+Note: The error occurs when strictTempl...](https://twitter.com/devminibhati/status/1559946078166065152)
+- [@eligarlo @Airbnb I got this as well😅](https://twitter.com/devminibhati/status/1559943013794983937)
 - [@debug_mode Food and JavaScript. 💞
 What are you writing about?](https://twitter.com/devminibhati/status/1558287837115535360)
 - [@xocomil_1 @JayCooperBell I am the opposite. I need to get rid of the booking phase as soon as possible.](https://twitter.com/devminibhati/status/1557736076055195650)
 - [Come join us! https://t.co/Dhmgk8fR3G](https://twitter.com/devminibhati/status/1555249245497597952)
-- [Guess the book I&#39;m reading](https://twitter.com/devminibhati/status/1554520713373319168)
-- [#Angular
-
-Ngclass and Ngstyle override all other bindings on every value change. They are the !important equivalent.](https://twitter.com/devminibhati/status/1554520542308597760)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
