@@ -38,6 +38,7 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [RT @ijomah2: @xocomil_1 @DeborahKurata @erik_slack @KateSky8 @phenomnominal @AlisaDuncan @prestonjlamb @JordanPowell88 Thanks fo...](https://twitter.com/devminibhati/status/1562491296895315969)
 - [@ChrisJPerko @voperko Congratulations🥳🥳🥳](https://twitter.com/devminibhati/status/1561397972100780032)
 - [#Angular
 
@@ -47,7 +48,6 @@ Note: The error occurs when strictTempl...](https://twitter.com/devminibhati/sta
 - [@eligarlo @Airbnb I got this as well😅](https://twitter.com/devminibhati/status/1559943013794983937)
 - [@debug_mode Food and JavaScript. 💞
 What are you writing about?](https://twitter.com/devminibhati/status/1558287837115535360)
-- [@xocomil_1 @JayCooperBell I am the opposite. I need to get rid of the booking phase as soon as possible.](https://twitter.com/devminibhati/status/1557736076055195650)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
