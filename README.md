@@ -38,13 +38,13 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [Replay video from #ngconf2022 https://t.co/BKjarwk6l1](https://twitter.com/devminibhati/status/1571546810237460482)
+- [@basarat I have mostly used the first approach](https://twitter.com/devminibhati/status/1571546300495302656)
 - [RT @angular_meetup: Join @pluralsight author @dunchunter at this month&#39;s #AngularCommunity Meetup where he&#39;ll show you how to bu...](https://twitter.com/devminibhati/status/1569512964147015684)
 - [RT @angular_meetup: Want to knockout productivity-killers🥊 ?
 
 Join @smcenlly from @wallabyjs at this month&#39;s #AngularCommunity M...](https://twitter.com/devminibhati/status/1569512929632092160)
 - [@dzhavatushev I see what you did there. 🤣](https://twitter.com/devminibhati/status/1562670273329262593)
-- [@mwycliffe_dev Congratulations🎉](https://twitter.com/devminibhati/status/1562659548842061825)
-- [RT @ijomah2: @xocomil_1 @DeborahKurata @erik_slack @KateSky8 @phenomnominal @AlisaDuncan @prestonjlamb @JordanPowell88 Thanks fo...](https://twitter.com/devminibhati/status/1562491296895315969)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
