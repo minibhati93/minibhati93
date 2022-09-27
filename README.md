@@ -28,6 +28,7 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📖 Recent Hashnode blog posts
 
 <!-- HASHNODE:START -->
+- [Introduction to Dependency Injection](https://hashtrie.com/introduction-to-dependency-injection)
 - [How to respond to input changes reactively in the child component](https://hashtrie.com/how-to-respond-to-input-changes-reactively-in-the-child-component)
 - [How to configure Jest for unit testing in an Angular application](https://hashtrie.com/how-to-configure-jest-for-unit-testing-in-an-angular-application)
 - [One-liner Solutions to 6 Coding Questions in JavaScript](https://hashtrie.com/one-liner-solutions-to-6-coding-questions-in-javascript)
