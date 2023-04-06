@@ -39,15 +39,19 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [RT @NG_Tutorial: Angular Internals: How Reactivity Works with Zone.js
+
+✍ @crutchcorn
+
+https://t.co/XULOIKbBfR](https://twitter.com/minibhati93/status/1643565166737629184)
 - [RT @NG_Tutorial: Does Angular Support Generic Component Types?
 
 ✍ @SCooperDev
 
-https://t.co/BSqseFO5W7](https://twitter.com/devminibhati/status/1636286194836475904)
-- [@tim_deschryver Thank you for keeping my tests sane.](https://twitter.com/devminibhati/status/1573368115677007872)
-- [Replay video from #ngconf2022 https://t.co/BKjarwk6l1](https://twitter.com/devminibhati/status/1571546810237460482)
-- [@basarat I have mostly used the first approach](https://twitter.com/devminibhati/status/1571546300495302656)
-- [RT @angular_meetup: Join @pluralsight author @dunchunter at this month&#39;s #AngularCommunity Meetup where he&#39;ll show you how to bu...](https://twitter.com/devminibhati/status/1569512964147015684)
+https://t.co/BSqseFO5W7](https://twitter.com/minibhati93/status/1636286194836475904)
+- [@tim_deschryver Thank you for keeping my tests sane.](https://twitter.com/minibhati93/status/1573368115677007872)
+- [Replay video from #ngconf2022 https://t.co/BKjarwk6l1](https://twitter.com/minibhati93/status/1571546810237460482)
+- [@basarat I have mostly used the first approach](https://twitter.com/minibhati93/status/1571546300495302656)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
