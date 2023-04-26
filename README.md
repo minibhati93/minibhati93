@@ -6,7 +6,7 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/minibhati93/minibhati93)](https:github.com/minibhati93)-->
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/devminibhati?style=social)](https://twitter.com/minibhati93)
+[![Twitter Badge](https://img.shields.io/twitter/follow/minibhati93?style=social)](https://twitter.com/minibhati93)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/minibhati93/)
 
 <!-- Here are some ideas to get you started: -->
