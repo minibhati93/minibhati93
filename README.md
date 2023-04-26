@@ -40,22 +40,11 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-
-- [RT @NG_Tutorial: Angular Internals: How Reactivity Works with Zone.js
-
-✍ @crutchcorn
-
-https://t.co/XULOIKbBfR](https://twitter.com/minibhati93/status/1643565166737629184)
-
-- [RT @NG_Tutorial: Does Angular Support Generic Component Types?
-
-✍ @SCooperDev
-
-https://t.co/BSqseFO5W7](https://twitter.com/minibhati93/status/1636286194836475904)
-
-- [@tim_deschryver Thank you for keeping my tests sane.](https://twitter.com/minibhati93/status/1573368115677007872)
-- [Replay video from #ngconf2022 https://t.co/BKjarwk6l1](https://twitter.com/minibhati93/status/1571546810237460482)
-- [@basarat I have mostly used the first approach](https://twitter.com/minibhati93/status/1571546300495302656)
+- [Amazing line-up. Can&#39;t wait](https://twitter.com/minibhati93/status/1651189363160776706)
+- [My first talk ever was a Lightning talk. I have learnt so much since then.](https://twitter.com/minibhati93/status/1651176037739528193)
+- [RT This is Angular: &quot;Lazy loading services in Angular. What?! Yes, we can.&quot; by Enea Jahollari #angular #javascript #lazyloading #webdev #ThisIsAngular...](https://twitter.com/Thisis_Angular/status/1651141459179864064)
+- [RT NG Tutorial 🔥: Angular Internals: How Reactivity Works with Zone.js ✍ @crutchcorn https://bit.ly/3vI6w3J](https://twitter.com/NG_Tutorial/status/1643410880753815552)
+- [RT NG Tutorial 🔥: Does Angular Support Generic Component Types? ✍ @SCooperDev https://bit.ly/3I2jLnq](https://twitter.com/NG_Tutorial/status/1636042330733002767)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
