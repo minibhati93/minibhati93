@@ -39,8 +39,8 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [Amazing line-up. Can&#39;t wait](https://twitter.com/minibhati93/status/1651189363160776706)
-- [My first talk ever was a Lightning talk. I have learnt so much since then.](https://twitter.com/minibhati93/status/1651176037739528193)
+- [Amazing line-up. Can&#39;t wait https://twitter.com/adyngom/status/1650620894065115137](https://twitter.com/minibhati93/status/1651189363160776706)
+- [My first talk ever was a Lightning talk. I have learnt so much since then. https://twitter.com/xocomil_1/status/1650883549896265729](https://twitter.com/minibhati93/status/1651176037739528193)
 - [RT This is Angular: &quot;Lazy loading services in Angular. What?! Yes, we can.&quot; by Enea Jahollari #angular #javascript #lazyloading #webdev #ThisIsAngular...](https://twitter.com/Thisis_Angular/status/1651141459179864064)
 - [RT NG Tutorial 🔥: Angular Internals: How Reactivity Works with Zone.js ✍ @crutchcorn https://bit.ly/3vI6w3J](https://twitter.com/NG_Tutorial/status/1643410880753815552)
 - [RT NG Tutorial 🔥: Does Angular Support Generic Component Types? ✍ @SCooperDev https://bit.ly/3I2jLnq](https://twitter.com/NG_Tutorial/status/1636042330733002767)
