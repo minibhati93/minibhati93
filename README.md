@@ -21,7 +21,6 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📖 Recent DEV.TO posts
 
 <!-- DEVTO:START -->
-
 - [How to respond to input changes reactively in the child component](https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7)
 - [List of Angular CLI commands we use daily](https://dev.to/devminibhati/list-of-angular-cli-commands-we-use-daily-1jab)
 <!-- DEVTO:END -->
