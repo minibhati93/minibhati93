@@ -38,11 +38,11 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [RT Dariusz Kalbarczyk: 📢 Call for Papers: @ngPolandConf / @jsPolandConf /@QwikPolandConf &lpar;Hybrid Edition&rpar; 📢 https://ng-poland.pl/cfp We are prim...](https://twitter.com/ngKalbarczyk/status/1651212036993425408)
 - [Amazing line-up. Can&#39;t wait https://twitter.com/adyngom/status/1650620894065115137](https://twitter.com/minibhati93/status/1651189363160776706)
 - [My first talk ever was a Lightning talk. I have learnt so much since then. https://twitter.com/xocomil_1/status/1650883549896265729](https://twitter.com/minibhati93/status/1651176037739528193)
+- [RT Younes: 👋 Just a quick visual reminder of #RxJS flattening strategies https://t.co/5Yba9WlmzZ](https://twitter.com/yjaaidi/status/1651141509876535296)
 - [RT This is Angular: &quot;Lazy loading services in Angular. What?! Yes, we can.&quot; by Enea Jahollari #angular #javascript #lazyloading #webdev #ThisIsAngular...](https://twitter.com/Thisis_Angular/status/1651141459179864064)
-- [RT NG Tutorial 🔥: Angular Internals: How Reactivity Works with Zone.js ✍ @crutchcorn https://bit.ly/3vI6w3J](https://twitter.com/NG_Tutorial/status/1643410880753815552)
-- [RT NG Tutorial 🔥: Does Angular Support Generic Component Types? ✍ @SCooperDev https://bit.ly/3I2jLnq](https://twitter.com/NG_Tutorial/status/1636042330733002767)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
