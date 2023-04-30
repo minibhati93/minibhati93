@@ -38,10 +38,10 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [Such an amazing talk by @debs_obrien at @angulartinyconf 🎉 https://twitter.com/xocomil_1/status/1651958309547835392](https://twitter.com/minibhati93/status/1651965868455387136)
+- [Such an amazing talk by @debs_obrien at @angulartinyconf 🎉](https://twitter.com/minibhati93/status/1651965868455387136)
 - [RT Dariusz Kalbarczyk: 📢 Call for Papers: @ngPolandConf / @jsPolandConf /@QwikPolandConf &lpar;Hybrid Edition&rpar; 📢 https://ng-poland.pl/cfp We are prim...](https://twitter.com/ngKalbarczyk/status/1651212036993425408)
-- [Amazing line-up. Can&#39;t wait https://twitter.com/adyngom/status/1650620894065115137](https://twitter.com/minibhati93/status/1651189363160776706)
-- [My first talk ever was a Lightning talk. I have learnt so much since then. https://twitter.com/xocomil_1/status/1650883549896265729](https://twitter.com/minibhati93/status/1651176037739528193)
+- [Amazing line-up. Can&#39;t wait](https://twitter.com/minibhati93/status/1651189363160776706)
+- [My first talk ever was a Lightning talk. I have learnt so much since then.](https://twitter.com/minibhati93/status/1651176037739528193)
 - [RT Younes: 👋 Just a quick visual reminder of #RxJS flattening strategies https://t.co/5Yba9WlmzZ](https://twitter.com/yjaaidi/status/1651141509876535296)
 <!-- TWITTER:END -->
 
