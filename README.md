@@ -42,7 +42,7 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 - [RT Angular Community Meetup: ⌚︎ The CFP is only open for another 7 hours! Don&#39;t miss out on this once in a life-time opportunity to present a lightn...](https://twitter.com/angular_meetup/status/1659694481099362304)
 - [RT Angular: Angular v16 adds an API to provide CSP nonce for inline stylesheets. The API provides a Content Security Policy nonce to Angular-generated...](https://twitter.com/angular/status/1658910260222992437)
 - [RT Angular: Angular v16! ➕ Angular Signals in developer preview 🚦 ➕ Developer preview of opt-in non-destructive hydration 💧 ➕ Improved Standa...](https://twitter.com/angular/status/1653851700510195714)
-- [Such an amazing talk by @debs_obrien at @angulartinyconf 🎉 https://twitter.com/xocomil_1/status/1651958309547835392](https://twitter.com/minibhati93/status/1651965868455387136)
+- [Such an amazing talk by @debs_obrien at @angulartinyconf 🎉](https://twitter.com/minibhati93/status/1651965868455387136)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
