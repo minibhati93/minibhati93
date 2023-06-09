@@ -38,7 +38,7 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [#ngconf2023](https://twitter.com/minibhati93/status/1665564022534438912)
+- [#ngconf2023 https://twitter.com/angular_meetup/status/1665393181402497025](https://twitter.com/minibhati93/status/1665564022534438912)
 - [RT Angular Community Meetup: ⚡️ Light up your #Angular skills at our Lightning Talks Lollapalooza on June 13th at @ngconf! Get insights from @KateSk...](https://twitter.com/angular_meetup/status/1665191759918317568)
 - [RT Angular: v16 will get you in the zone. The NgZone! We&#39;ve added the ability to configure NgZone in bootstrapApplication. A side-effect of this is th...](https://twitter.com/angular/status/1661084588301533192)
 - [RT Angular Community Meetup: ⌚︎ The CFP is only open for another 7 hours! Don&#39;t miss out on this once in a life-time opportunity to present a lightn...](https://twitter.com/angular_meetup/status/1659694481099362304)
