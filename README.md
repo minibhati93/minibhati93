@@ -41,7 +41,7 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 - [RT Minko Gechev: 📣 During the @ngconf keynote today we shared a new RFC for built-in declarative lazy loading that allows you to: ‣ Lazily load pa...](https://twitter.com/mgechev/status/1669019971392008192)
 - [RT Brandon Roberts: 🔥🔥🔥 Another RFC in @Angular for built-in control flow for ngIf, ngFor, and ngSwitch! No more separate imports! 🫡 🙌...](https://twitter.com/brandontroberts/status/1669006343494336512)
 - [RT Brandon Roberts: 👋 @ngconf is happening next week! I&#39;m excited to talk about @Angular and @AnalogJS across the stack! Lots have happened since l...](https://twitter.com/brandontroberts/status/1667200301764419588)
-- [#ngconf2023 https://twitter.com/angular_meetup/status/1665393181402497025](https://twitter.com/minibhati93/status/1665564022534438912)
+- [#ngconf2023](https://twitter.com/minibhati93/status/1665564022534438912)
 - [RT Angular Community Meetup: ⚡️ Light up your #Angular skills at our Lightning Talks Lollapalooza on June 13th at @ngconf! Get insights from @KateSk...](https://twitter.com/angular_meetup/status/1665191759918317568)
 <!-- TWITTER:END -->
 
