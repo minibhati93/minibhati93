@@ -38,11 +38,11 @@ I am a UI enthusiast currently working as a software engineer at Cisco. I am als
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [RT Angular Community Meetup: Big thanks to everyone who joined our #AngularWomen event! So inspired by the insights from @BrowserPerson, @ladyleet, @M...](https://twitter.com/angular_meetup/status/1683916493556178950)
-- [RT Erik Slack: My role at Cisco has been eliminated. I&#39;m forced to look for what&#39;s next. I might find another role at Cisco, but I might not, so if an...](https://twitter.com/erik_slack/status/1680969498600546304)
-- [RT Minko Gechev: 📣 During the @ngconf keynote today we shared a new RFC for built-in declarative lazy loading that allows you to: ‣ Lazily load pa...](https://twitter.com/mgechev/status/1669019971392008192)
-- [RT Brandon Roberts: 🔥🔥🔥 Another RFC in @Angular for built-in control flow for ngIf, ngFor, and ngSwitch! No more separate imports! 🫡 🙌...](https://twitter.com/brandontroberts/status/1669006343494336512)
-- [RT Brandon Roberts: 👋 @ngconf is happening next week! I&#39;m excited to talk about @Angular and @AnalogJS across the stack! Lots have happened since l...](https://twitter.com/brandontroberts/status/1667200301764419588)
+- [RT Angular Community Meetup: Big thanks to everyone who joined our #AngularWomen event! So inspired by the insights from @BrowserPerson, @ladyleet, @M...](https://twitter.com/minibhati93/status/1684114293514735616)
+- [RT Erik Slack: My role at Cisco has been eliminated. I&#39;m forced to look for what&#39;s next. I might find another role at Cisco, but I might not, so if an...](https://twitter.com/minibhati93/status/1681010818643791873)
+- [RT Minko Gechev: 📣 During the @ngconf keynote today we shared a new RFC for built-in declarative lazy loading that allows you to: ‣ Lazily load pa...](https://twitter.com/minibhati93/status/1669548169682878464)
+- [RT Brandon Roberts: 🔥🔥🔥 Another RFC in @Angular for built-in control flow for ngIf, ngFor, and ngSwitch! No more separate imports! 🫡 🙌...](https://twitter.com/minibhati93/status/1669171507015352320)
+- [RT Brandon Roberts: 👋 @ngconf is happening next week! I&#39;m excited to talk about @Angular and @AnalogJS across the stack! Lots have happened since l...](https://twitter.com/minibhati93/status/1667606665833873408)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
