@@ -38,11 +38,11 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [RT Angular Community Meetup: Big thanks to everyone who joined our #AngularWomen event! So inspired by the insights from @BrowserPerson, @ladyleet, @M...](https://twitter.com/minibhati93/status/1684114293514735616)
-- [RT Erik Slack: My role at Cisco has been eliminated. I&#39;m forced to look for what&#39;s next. I might find another role at Cisco, but I might not, so if an...](https://twitter.com/minibhati93/status/1681010818643791873)
-- [RT Minko Gechev: 📣 During the @ngconf keynote today we shared a new RFC for built-in declarative lazy loading that allows you to: ‣ Lazily load pa...](https://twitter.com/minibhati93/status/1669548169682878464)
-- [RT Brandon Roberts: 🔥🔥🔥 Another RFC in @Angular for built-in control flow for ngIf, ngFor, and ngSwitch! No more separate imports! 🫡 🙌...](https://twitter.com/minibhati93/status/1669171507015352320)
-- [RT Brandon Roberts: 👋 @ngconf is happening next week! I&#39;m excited to talk about @Angular and @AnalogJS across the stack! Lots have happened since l...](https://twitter.com/minibhati93/status/1667606665833873408)
+- [Re @patel_vimal @AlexOkrushko @CiscoCX Yes, absolutely 💯](https://x.com/minibhati93/status/1773917785263128741)
+- [RT Rainer Hahnekamp: Angular 17.2 introduced the model&lpar;&rpar; function. It - is a writeable Signal - adds an input/@Input property to the component - adds ...](https://x.com/minibhati93/status/1759927907366154434)
+- [RT Angular Community Meetup: Big thanks to everyone who joined our #AngularWomen event! So inspired by the insights from @BrowserPerson, @ladyleet, @M...](https://x.com/minibhati93/status/1684114293514735616)
+- [RT Erik Slack: My role at Cisco has been eliminated. I&#39;m forced to look for what&#39;s next. I might find another role at Cisco, but I might not, so if an...](https://x.com/minibhati93/status/1681010818643791873)
+- [RT Minko Gechev: 📣 During the @ngconf keynote today we shared a new RFC for built-in declarative lazy loading that allows you to: ‣ Lazily load pa...](https://x.com/minibhati93/status/1669548169682878464)
 <!-- TWITTER:END -->
 
 ### Mostly Used Languages
