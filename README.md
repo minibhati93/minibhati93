@@ -13,10 +13,10 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 
 <!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning Signal Store
+- 🌱 I’m currently learning Signal Store, Nx
 - 💬 Ask me about anything related to Javascript, Typescript, Angular and RxJs.
-- 📫 How to reach me: [Twitter DM](https://twitter.com/minibhati93) , [Linkedin](https://www.linkedin.com/in/minibhati93/)
-- ⚡ Fun fact: I'm an avid reader who loves to travel.
+- 📫 How to reach me: [X DM](https://twitter.com/minibhati93) , [Linkedin](https://www.linkedin.com/in/minibhati93/)
+- ⚡ Fun fact: I'm an avid reader who enjoy writing & occasional travelling.
 
 ### 📖 Recent DEV.TO posts
 
@@ -47,7 +47,6 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 <a href="https://dev.to/devminibhati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devminibhati" height="30" width="40" /></a>
 <a href="https://twitter.com/minibhati93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devminibhati" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/minibhati93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minibhati93" height="30" width="40" /></a>
-<a href="https://codesandbox.com/devminibhati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="devminibhati" height="30" width="40" /></a>
 <a href="https://hashnode.com/@minibhati93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devminibhati" height="30" width="40" /></a>
 </p>
 
