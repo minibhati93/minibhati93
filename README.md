@@ -2,7 +2,7 @@
 
 My name is **Mini Bhati**.
 
-I am a UI developer currently working as a software engineer at Cisco. I ❤️ Angular. My interests lie in making the user experience memorable and performance optimization. In the past, I have been doing various engineering, and support roles delivering Angular applications in the finance and education domain.
+I am a UI developer currently working as a software engineer at Cisco. I ❤️ Angular. I'm passionate about creating intuitive and visually appealing digital experiences, and I'm always eager to learn new technologies and improve my skills. In the past, I have been doing various engineering, and support roles delivering Angular applications in the finance and education domain. Throughout my career, I've gained a deep understanding of what makes a user interface not only functional but also engaging and user-friendly and memorable.
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/minibhati93/minibhati93)](https:github.com/minibhati93)-->
 
@@ -13,7 +13,7 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 
 <!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning NgRx and Nx
+- 🌱 I’m currently learning Signal Store
 - 💬 Ask me about anything related to Javascript, Typescript, Angular and RxJs.
 - 📫 How to reach me: [Twitter DM](https://twitter.com/minibhati93) , [Linkedin](https://www.linkedin.com/in/minibhati93/)
 - ⚡ Fun fact: I'm an avid reader who loves to travel.
@@ -21,6 +21,7 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 ### 📖 Recent DEV.TO posts
 
 <!-- DEVTO:START -->
+
 - [How to respond to input changes reactively in the child component](https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7)
 - [List of Angular CLI commands we use daily](https://dev.to/devminibhati/list-of-angular-cli-commands-we-use-daily-1jab)
 <!-- DEVTO:END -->
@@ -28,22 +29,13 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 ### 📖 Recent Hashnode blog posts
 
 <!-- HASHNODE:START -->
+
 - [Introduction to Dependency Injection](https://hashtrie.com/introduction-to-dependency-injection)
 - [How to respond to input changes reactively in the child component](https://hashtrie.com/how-to-respond-to-input-changes-reactively-in-the-child-component)
 - [How to configure Jest for unit testing in an Angular application](https://hashtrie.com/how-to-configure-jest-for-unit-testing-in-an-angular-application)
 - [One-liner Solutions to 6 Coding Questions in JavaScript](https://hashtrie.com/one-liner-solutions-to-6-coding-questions-in-javascript)
 - [Understand Nullish Coalescing Operator With Examples](https://hashtrie.com/understand-nullish-coalescing-operator-with-examples)
 <!-- HASHNODE:END -->
-
-### 📱 Latest Tweets
-
-<!-- TWITTER:START -->
-- [Re @patel_vimal @AlexOkrushko @CiscoCX Yes, absolutely 💯](https://x.com/minibhati93/status/1773917785263128741)
-- [RT Rainer Hahnekamp: Angular 17.2 introduced the model&lpar;&rpar; function. It - is a writeable Signal - adds an input/@Input property to the component - adds ...](https://x.com/minibhati93/status/1759927907366154434)
-- [RT Angular Community Meetup: Big thanks to everyone who joined our #AngularWomen event! So inspired by the insights from @BrowserPerson, @ladyleet, @M...](https://x.com/minibhati93/status/1684114293514735616)
-- [RT Erik Slack: My role at Cisco has been eliminated. I&#39;m forced to look for what&#39;s next. I might find another role at Cisco, but I might not, so if an...](https://x.com/minibhati93/status/1681010818643791873)
-- [RT Minko Gechev: 📣 During the @ngconf keynote today we shared a new RFC for built-in declarative lazy loading that allows you to: ‣ Lazily load pa...](https://x.com/minibhati93/status/1669548169682878464)
-<!-- TWITTER:END -->
 
 ### Mostly Used Languages
 
