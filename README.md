@@ -13,7 +13,7 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 
 <!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning Signal Store, Nx
+- 🌱 I’m currently learning Next JS and React
 - 💬 Ask me about anything related to Javascript, Typescript, Angular and RxJs.
 - 📫 How to reach me: [X DM](https://twitter.com/minibhati93) , [Linkedin](https://www.linkedin.com/in/minibhati93/)
 - ⚡ Fun fact: I'm an avid reader who enjoy writing & occasional travelling.
