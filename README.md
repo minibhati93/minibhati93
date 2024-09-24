@@ -28,11 +28,11 @@ I am a UI developer currently working as a software engineer at Cisco. I ❤️ 
 ### 📖 Recent Hashnode blog posts
 
 <!-- HASHNODE:START -->
-- [Introduction to Dependency Injection](https://hashtrie.com/introduction-to-dependency-injection)
-- [How to respond to input changes reactively in the child component](https://hashtrie.com/how-to-respond-to-input-changes-reactively-in-the-child-component)
-- [How to configure Jest for unit testing in an Angular application](https://hashtrie.com/how-to-configure-jest-for-unit-testing-in-an-angular-application)
-- [One-liner Solutions to 6 Coding Questions in JavaScript](https://hashtrie.com/one-liner-solutions-to-6-coding-questions-in-javascript)
-- [Understand Nullish Coalescing Operator With Examples](https://hashtrie.com/understand-nullish-coalescing-operator-with-examples)
+- [Introduction to Dependency Injection](https://minibhati.hashnode.dev/introduction-to-dependency-injection)
+- [How to respond to input changes reactively in the child component](https://minibhati.hashnode.dev/how-to-respond-to-input-changes-reactively-in-the-child-component)
+- [How to configure Jest for unit testing in an Angular application](https://minibhati.hashnode.dev/how-to-configure-jest-for-unit-testing-in-an-angular-application)
+- [One-liner Solutions to 6 Coding Questions in JavaScript](https://minibhati.hashnode.dev/one-liner-solutions-to-6-coding-questions-in-javascript)
+- [Understand Nullish Coalescing Operator With Examples](https://minibhati.hashnode.dev/understand-nullish-coalescing-operator-with-examples)
 <!-- HASHNODE:END -->
 
 ### Mostly Used Languages
