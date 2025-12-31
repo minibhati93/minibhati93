@@ -30,7 +30,7 @@ I write occasionally to clarify my own understanding and share lessons learned.
 Older posts focus on fundamentals; newer writing explores system-level concerns and engineering judgment.
 
 - Hashnode: https://minibhati.hashnode.dev/
-- DEV.to: https://dev.to/minibhati
+- DEV.to: https://dev.to/devminibhati
 
 ### Current focus
 - Angular at scale: change detection, DI scopes, state boundaries
