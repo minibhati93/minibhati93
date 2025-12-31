@@ -1,49 +1,47 @@
-### 👋 Hi there
+## Hi, I’m Mini Bhati 👋
 
-My name is **Mini Bhati**.
+I’m a senior frontend engineer with 11+ years of experience building, evolving, and maintaining
+large-scale UI systems — primarily with Angular.
 
-I am a UI developer currently working as a software engineer at Cisco. I ❤️ Angular. I'm passionate about creating intuitive and visually appealing digital experiences, and I'm always eager to learn new technologies and improve my skills. In the past, I have been doing various engineering, and support roles delivering Angular applications in the finance and education domain. Throughout my career, I've gained a deep understanding of what makes a user interface not only functional but also engaging and user-friendly and memorable.
+My work focuses on **how frontend systems behave over time**, not just how components are written.
 
-<!--[![Visits Badge](https://badges.pufler.dev/visits/minibhati93/minibhati93)](https:github.com/minibhati93)-->
+### What I care about
+- Frontend architecture and system boundaries
+- Engineering decision-making and trade-offs
+- Performance, maintainability, and developer experience
+- Designing UI systems that scale with teams
+- AI-assisted development as a **thinking and reasoning tool**, not a shortcut
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/minibhati93?style=social)](https://twitter.com/minibhati93)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/minibhati93/)
+### How I use this GitHub
+This is not a tutorial repository.
 
-<!-- Here are some ideas to get you started: -->
+I use this space to:
+- Explore Angular internals and system behavior
+- Document architectural experiments and trade-offs
+- Capture learnings from real-world frontend systems
+- Maintain notes and prototypes that help me reason better as an engineer
 
-<!-- - 🔭 I’m currently working on  -->
+Some repositories may look unfinished — that’s intentional.  
+They represent **ongoing thinking**, not polished demos.
 
-- 🌱 I’m currently learning Next JS and React
-- 💬 Ask me about anything related to Javascript, Typescript, Angular and RxJs.
-- 📫 How to reach me: [X DM](https://twitter.com/minibhati93) , [Linkedin](https://www.linkedin.com/in/minibhati93/)
-- ⚡ Fun fact: I'm an avid reader who enjoy writing & occasional travelling.
+### Writing & technical notes
+I write occasionally to clarify my own understanding and share lessons learned.
 
-### 📖 Recent DEV.TO posts
+Older posts focus on fundamentals; newer writing explores system-level concerns and engineering judgment.
 
-<!-- DEVTO:START -->
-- [How to respond to input changes reactively in the child component](https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7)
-- [List of Angular CLI commands we use daily](https://dev.to/devminibhati/list-of-angular-cli-commands-we-use-daily-1jab)
-<!-- DEVTO:END -->
+- Hashnode: https://minibhati.hashnode.dev/
+- DEV.to: https://dev.to/minibhati
 
-### 📖 Recent Hashnode blog posts
+### Current focus
+- Angular at scale: change detection, DI scopes, state boundaries
+- Frontend system design beyond individual frameworks
+- Using AI to improve code reviews, refactoring, and architectural reasoning
 
-<!-- HASHNODE:START -->
-- [Introduction to Dependency Injection](https://minibhati.hashnode.dev/introduction-to-dependency-injection)
-- [How to respond to input changes reactively in the child component](https://minibhati.hashnode.dev/how-to-respond-to-input-changes-reactively-in-the-child-component)
-- [How to configure Jest for unit testing in an Angular application](https://minibhati.hashnode.dev/how-to-configure-jest-for-unit-testing-in-an-angular-application)
-- [One-liner Solutions to 6 Coding Questions in JavaScript](https://minibhati.hashnode.dev/one-liner-solutions-to-6-coding-questions-in-javascript)
-- [Understand Nullish Coalescing Operator With Examples](https://minibhati.hashnode.dev/understand-nullish-coalescing-operator-with-examples)
-<!-- HASHNODE:END -->
+### Long-term direction
+I’m intentionally growing toward a **Principal Engineer role**, with a focus on
+scalable frontend systems, technical leadership, and community contribution.
 
-### Mostly Used Languages
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minibhati93&layout=compact)](https://github.com/minibhati93)
-
-### Connect with me
-
-<p align="left">
-<a href="https://dev.to/devminibhati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devminibhati" height="30" width="40" /></a>
-<a href="https://twitter.com/minibhati93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devminibhati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/minibhati93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minibhati93" height="30" width="40" /></a>
-<a href="https://hashnode.com/@minibhati93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devminibhati" height="30" width="40" /></a>
-</p>
+📫 You can find me on:
+- LinkedIn: https://www.linkedin.com/in/minibhati/
