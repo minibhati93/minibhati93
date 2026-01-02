@@ -21,8 +21,7 @@ I use this space to:
 - Capture learnings from real-world frontend systems
 - Maintain notes and prototypes that help me reason better as an engineer
 
-Some repositories may look unfinished — that’s intentional.  
-They represent **ongoing thinking**, not polished demos.
+Some repositories intentionally capture decisions *in progress*. I keep intermediate states visible because that’s where most real-world engineering judgment is formed.
 
 ### Writing & technical notes
 I write occasionally to clarify my own understanding and share lessons learned.
@@ -32,15 +31,17 @@ Older posts focus on fundamentals; newer writing explores system-level concerns 
 - Hashnode: https://minibhati.hashnode.dev/
 - DEV.to: https://dev.to/devminibhati
 
-### Current focus
-- Angular at scale: change detection, DI scopes, state boundaries
-- Frontend system design beyond individual frameworks
-- Using AI to improve code reviews, refactoring, and architectural reasoning
+### Who this GitHub is for
+This GitHub is intended for:
+- Frontend engineers working on production systems
+- Engineers transitioning into Staff / Principal roles
+- Developers who care about system boundaries, not just components
 
-### Long-term direction
-I’m intentionally growing toward a **Principal Engineer role**, with a focus on
-scalable frontend systems, technical leadership, and community contribution.
-
+### Where to start
+- **angular-internals-lab** → Angular behavior, DI scopes, change detection
+- **enterprise-application-systems** → Frontend architecture at scale
+- **frontend-engineering-notes** → Cross-cutting system design notes
+- **javascript-behind-the-frameworks** → Constraints that shape frameworks
 ---
 
 📫 You can find me on:
